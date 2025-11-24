@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Qual é o título do Hino Nacional de Moçambique?",
+        "answers": [
+            { "text": "Pátria Amada", "correct": true },
+            { "text": "Moçambique, Nossa Terra Gloriosa", "correct": false },
+            { "text": "Moçambique, Terra Querida", "correct": false },
+            { "text": "Independência Total", "correct": false }
+        ]
+    },
+    {
+        "question": "Em que ano o Hino Nacional atual foi adotado oficialmente?",
+        "answers": [
+            { "text": "1975", "correct": false },
+            { "text": "2002", "correct": true },
+            { "text": "1986", "correct": false },
+            { "text": "1994", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual estrofe contém o verso: 'Nos combates pela independência'?",
+        "answers": [
+            { "text": "Primeira estrofe", "correct": true },
+            { "text": "Segunda estrofe", "correct": false },
+            { "text": "Terceira estrofe", "correct": false },
+            { "text": "Não pertence ao hino", "correct": false }
+        ]
+    },
+    {
+        "question": "Selecione qual trecho pertence à SEGUNDA estrofe do Hino Nacional:",
+        "answers": [
+            { "text": "\"Terra bela dos nossos avós\"", "correct": false },
+            { "text": "\"Pátria amada, vamos vencer!\"", "correct": true },
+            { "text": "\"Floresce o sonho do povo unido\"", "correct": false },
+            { "text": "\"Brilha o sol deste povo heróico\"", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual destes versos pertence à TERCEIRA estrofe do Hino ‘Pátria Amada’?",
+        "answers": [
+            { "text": "\"União, trabalho e vigilância\"", "correct": true },
+            { "text": "\"Nos combates pela independência\"", "correct": false },
+            { "text": "\"Pátria amada, vamos vencer!\"", "correct": false },
+            { "text": "\"A terra é nossa, é do povo inteiro\"", "correct": false }
+        ]
+    },
+    {
+        "question": "Quem compôs a letra do Hino Nacional atual?",
+        "answers": [
+            { "text": "Salomão J. Manhiça", "correct": true },
+            { "text": "Rui Knopfli", "correct": false },
+            { "text": "José Craveirinha", "correct": false },
+            { "text": "Luís Bernardo Honwana", "correct": false }
+        ]
+    },
+    {
+        "question": "O hino exalta sobretudo:",
+        "answers": [
+            { "text": "A superioridade militar de Moçambique", "correct": false },
+            { "text": "A unidade nacional e o espírito de luta", "correct": true },
+            { "text": "A natureza e a fauna", "correct": false },
+            { "text": "As tradições folclóricas regionais", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual é o tema dominante da primeira estrofe do Hino Nacional?",
+        "answers": [
+            { "text": "As riquezas minerais", "correct": false },
+            { "text": "A luta pela independência e o orgulho patriótico", "correct": true },
+            { "text": "Os recursos naturais do país", "correct": false },
+            { "text": "A cultura moçambicana", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual destes versos NÃO pertence ao Hino Nacional de Moçambique?",
+        "answers": [
+            { "text": "\"Pátria amada, minha terra adorada\"", "correct": true },
+            { "text": "\"Nos combates pela independência\"", "correct": false },
+            { "text": "\"Pátria amada, vamos vencer!\"", "correct": false },
+            { "text": "\"União, trabalho e vigilância\"", "correct": false }
+        ]
+    },
+    {
+        "question": "O Hino Nacional incentiva principalmente:",
+        "answers": [
+            { "text": "O individualismo e o progresso pessoal", "correct": false },
+            { "text": "A união, o trabalho e a defesa da pátria", "correct": true },
+            { "text": "O abandono das tradições", "correct": false },
+            { "text": "A competição regional", "correct": false }
+        ]
+    }
+]

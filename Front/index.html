@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-MZ">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz Moçambique - Identidade Nacional</title>
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css" />
+      <link rel="stylesheet" href="/CSS/index.css" />
+   </head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo"><h1>Moz Quiz</h1></div>
+            <nav>
+                <a href="#home">Home</a>
+                <a href="#quiz">Quiz</a>
+                <a href="#sobre">Sobre</a>
+            </nav>
+        </div>
+    </header>
+
+   <section class="hero">
+    <!-- Imagens de fundo que trocam automaticamente -->
+    <div class="hero-slider">
+        <div class="hero-slide active">
+            <img src="/Imgs/Flag_of_Mozambique.png" alt="Bandeira de Moçambique">
+        </div>
+        <div class="hero-slide">
+            <img src="/Imgs/Emblem_of_Mozambique.png" alt="Emblema de Moçambique">
+        </div>
+        <!-- Podes adicionar mais imagens se quiseres -->
+    </div>
+
+    <!-- Overlay escuro para o texto ficar legível -->
+    <div class="hero-overlay"></div>
+
+    <!-- Conteúdo de texto -->
+    <div class="hero-content">
+        <h2>Aprende Sobre a Cultura Nacional<br><span>de Uma Forma Interativa</span></h2>
+        <p>Testa os teus conhecimentos sobre Moçambique com orgulho!</p>
+    </div>
+</section>
+
+   <section class="quiz-start" id="quiz">
+    <div class="container-start">
+               <h2>Pronto para testar os teus conhecimentos?</h2>
+        
+        <div class="intro-text">
+            <p>
+                A nossa bandeira carrega a <strong>AK-47</strong> e o <strong>livro aberto</strong> porque lutámos pela liberdade e pela educação.  
+                O <strong>triângulo vermelho</strong> é o sangue dos heróis que nunca serão esquecidos — 
+                <strong>Eduardo Mondlane, Samora Machel, Josina Machel, Uria Simango</strong> e tantos outros que deram a vida por este país.
+            </p>
+            <p>
+                Hoje, o <strong>verde</strong> é a riqueza da nossa terra, o <strong>preto</strong> o continente africano, 
+                o <strong>amarelo</strong> os minerais e o <strong>vermelho</strong> a resistência.  
+                A <strong>estrela</strong> representa o espírito do povo moçambicano que sempre brilha.
+            </p>
+            <p>
+                Este jogo é uma homenagem a eles e a ti — que carregas Moçambique no peito.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+
+<!-- ====================== SECÇÃO DOS CARDS PATRIÓTICOS ====================== -->
+<section class="symbols-section">
+    <div class="symbols-container">
+
+        <!-- Card 1 - Bandeira -->
+        <div class="symbol-card">
+            <img src="/Imgs/Flag_of_Mozambique.png" alt="Bandeira de Moçambique">
+            <h3>Bandeira Nacional</h3>
+            <p>O verde representa a riqueza da terra, o preto o continente africano, o amarelo os minerais e o vermelho a luta pela independência.</p>
+           <a href="quiz.html?categoria=bandeira" class="card-btn">
+                Jogar Quiz Bandeira
+            </a>
+         </div>
+
+        <!-- Card 2 - Emblema -->
+        <div class="symbol-card">
+            <img src="/Imgs/Emblem_of_Mozambique.png" alt="Emblema de Moçambique">
+            <h3>Emblema Nacional</h3>
+            <p>A AK-47 e o livro aberto simbolizam a defesa da soberania e a importância da educação. A enxada e a foice representam o trabalho.</p>
+            <a href="quiz.html?categoria=emblema" class="card-btn">Jogar Quiz Emblema→</a>
+        </div>
+
+        <!-- Card 3 - Hino Nacional -->
+        <div class="symbol-card">
+            <div class="hino-placeholder">
+                <i class="bx bxs-music" style="font-size: 80px; color: #ffce00;"></i>
+            </div>
+            <h3>Hino Nacional</h3>
+            <p>"Pátria Amada" é o hino oficial desde 2002. Composto por Salomão J. Manhiça e musicado por Justino Chemane.</p>
+            <a href="quiz.html?categoria=hino" target="_blank" class="card-btn">Jogar Quiz Hino→</a>
+        </div>
+
+
+         <!-- Card 3 - Hino Nacional -->
+        <div class="symbol-card">
+            <div class="hino-placeholder">
+                <i class="bx bxs-music" style="font-size: 80px; color: #ffce00;"></i>
+            </div>
+            <h3>Herois Nacionais</h3>
+            <p>"Conheça os herois Nacionais, os que lutaram para o nosso presente e nosso futuro"</p>
+            <a href="quiz.html?categoria=herois" target="_blank" class="card-btn">Jogar Quiz Herois→</a>
+        </div>
+
+    </div>
+</section>
+<!-- ======================================================================== -->
+
+    <footer>
+        <p>Desenvolvido com orgulho para Moçambique © 2025</p>
+    </footer>
+
+    <script>
+    const slides = document.querySelectorAll('.hero-slide');
+    let current = 0;
+
+    function nextSlide() {
+        slides[current].classList.remove('active');
+        current = (current + 1) % slides.length;
+        slides[current].classList.add('active');
+    }
+
+    // Troca a cada 6 segundos
+    setInterval(nextSlide, 6000);
+
+    // Garante que a primeira imagem começa visível
+    slides[0].classList.add('active');
+</script>
+
+
+    <script src="/js/quizdata.js"></script>
+    <script src subs="/js/quiz.js"></script>
+</body>
+</html>

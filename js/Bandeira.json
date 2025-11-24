@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Quais são as cores principais da bandeira de Moçambique?",
+        "answers": [
+            { "text": "Verde, preto, amarelo, branco e vermelho", "correct": true },
+            { "text": "Azul, branco, verde e vermelho", "correct": false },
+            { "text": "Laranja, preto, castanho e vermelho", "correct": false },
+            { "text": "Roxo, verde e branco", "correct": false }
+        ]
+    },
+    {
+        "question": "O que simboliza a cor VERDE na bandeira de Moçambique?",
+        "answers": [
+            { "text": "A riqueza cultural", "correct": false },
+            { "text": "A luta armada", "correct": false },
+            { "text": "A riqueza natural do país", "correct": true },
+            { "text": "A unidade nacional", "correct": false }
+        ]
+    },
+    {
+        "question": "O que representa a cor PRETA na bandeira de Moçambique?",
+        "answers": [
+            { "text": "A paz", "correct": false },
+            { "text": "O continente africano", "correct": true },
+            { "text": "A agricultura", "correct": false },
+            { "text": "Os recursos minerais", "correct": false }
+        ]
+    },
+    {
+        "question": "A cor AMARELA da bandeira simboliza:",
+        "answers": [
+            { "text": "A justiça", "correct": false },
+            { "text": "As riquezas minerais do país", "correct": true },
+            { "text": "O sacrifício na luta pela independência", "correct": false },
+            { "text": "A esperança de um futuro melhor", "correct": false }
+        ]
+    },
+    {
+        "question": "O que significa a cor BRANCA na bandeira nacional?",
+        "answers": [
+            { "text": "A paz", "correct": true },
+            { "text": "A unidade africana", "correct": false },
+            { "text": "A educação", "correct": false },
+            { "text": "A riqueza natural", "correct": false }
+        ]
+    },
+    {
+        "question": "A cor VERMELHA simboliza:",
+        "answers": [
+            { "text": "A luta armada de libertação nacional", "correct": true },
+            { "text": "As tradições culturais", "correct": false },
+            { "text": "O oceano Índico", "correct": false },
+            { "text": "O desenvolvimento industrial", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual é o significado do livro aberto presente na bandeira?",
+        "answers": [
+            { "text": "Representa a saúde pública", "correct": false },
+            { "text": "Simboliza a educação e o conhecimento", "correct": true },
+            { "text": "Simboliza a economia", "correct": false },
+            { "text": "Representa a diplomacia", "correct": false }
+        ]
+    },
+    {
+        "question": "O que representa a enxada na bandeira de Moçambique?",
+        "answers": [
+            { "text": "O trabalho agrícola e o campesinato", "correct": true },
+            { "text": "A mineração", "correct": false },
+            { "text": "A unidade nacional", "correct": false },
+            { "text": "A cultura tradicional", "correct": false }
+        ]
+    },
+    {
+        "question": "O fuzil AK-47 na bandeira é símbolo de:",
+        "answers": [
+            { "text": "Desporto militar", "correct": false },
+            { "text": "A libertação e defesa do país", "correct": true },
+            { "text": "A caça", "correct": false },
+            { "text": "A opressão colonial", "correct": false }
+        ]
+    },
+    {
+        "question": "A estrela amarela na bandeira simboliza:",
+        "answers": [
+            { "text": "A energia solar", "correct": false },
+            { "text": "O internacionalismo e a solidariedade", "correct": true },
+            { "text": "O progresso tecnológico", "correct": false },
+            { "text": "A religião dominante", "correct": false }
+        ]
+    }
+]

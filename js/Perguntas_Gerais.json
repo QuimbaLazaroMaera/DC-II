@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Em que ano Moçambique conquistou a sua independência?",
+        "answers": [
+            { "text": "1970", "correct": false },
+            { "text": "1975", "correct": true },
+            { "text": "1980", "correct": false },
+            { "text": "1964", "correct": false }
+        ]
+    },
+    {
+        "question": "Quem foi o primeiro Presidente da República de Moçambique?",
+        "answers": [
+            { "text": "Joaquim Chissano", "correct": false },
+            { "text": "Samora Machel", "correct": true },
+            { "text": "Filipe Nyusi", "correct": false },
+            { "text": "Eduardo Mondlane", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual destes é considerado um Herói Nacional de Moçambique?",
+        "answers": [
+            { "text": "Eduardo Mondlane", "correct": true },
+            { "text": "Nelson Mandela", "correct": false },
+            { "text": "Kwame Nkrumah", "correct": false },
+            { "text": "Patrice Lumumba", "correct": false }
+        ]
+    },
+    {
+        "question": "Quem foi o fundador e primeiro presidente da FRELIMO?",
+        "answers": [
+            { "text": "Armando Guebuza", "correct": false },
+            { "text": "Eduardo Mondlane", "correct": true },
+            { "text": "Samora Machel", "correct": false },
+            { "text": "Marcelino dos Santos", "correct": false }
+        ]
+    },
+    {
+        "question": "A assinatura dos Acordos de Paz de Roma, que encerraram a guerra civil, ocorreu em:",
+        "answers": [
+            { "text": "1990", "correct": false },
+            { "text": "1992", "correct": true },
+            { "text": "1986", "correct": false },
+            { "text": "2000", "correct": false }
+        ]
+    },
+    {
+        "question": "Quem é considerado o 'Pai da Nação Moçambicana'?",
+        "answers": [
+            { "text": "Samora Machel", "correct": false },
+            { "text": "Joaquim Chissano", "correct": false },
+            { "text": "Eduardo Mondlane", "correct": true },
+            { "text": "João Chissano", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual é a capital de Moçambique?",
+        "answers": [
+            { "text": "Beira", "correct": false },
+            { "text": "Nampula", "correct": false },
+            { "text": "Maputo", "correct": true },
+            { "text": "Tete", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual destes é um dos principais rios de Moçambique?",
+        "answers": [
+            { "text": "Rio Congo", "correct": false },
+            { "text": "Rio Zambeze", "correct": true },
+            { "text": "Rio Nilo", "correct": false },
+            { "text": "Rio Níger", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual é o maior lago de Moçambique?",
+        "answers": [
+            { "text": "Lago Niassa", "correct": true },
+            { "text": "Lago Chirua", "correct": false },
+            { "text": "Lago Victoria", "correct": false },
+            { "text": "Lago Tanganyika", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual destes eventos é celebrado a 25 de Junho em Moçambique?",
+        "answers": [
+            { "text": "Dia dos Heróis Moçambicanos", "correct": false },
+            { "text": "Dia da Independência Nacional", "correct": true },
+            { "text": "Dia da Vitória", "correct": false },
+            { "text": "Dia da Mulher Moçambicana", "correct": false }
+        ]
+    }
+]

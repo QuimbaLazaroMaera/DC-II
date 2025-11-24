@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Quais são as cores predominantes no Emblema da República de Moçambique?",
+        "answers": [
+            { "text": "Azul, branco e roxo", "correct": false },
+            { "text": "Vermelho, amarelo, verde e preto", "correct": true },
+            { "text": "Laranja, cinzento e azul", "correct": false },
+            { "text": "Branco, castanho e verde-claro", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual é o significado da estrela presente no emblema?",
+        "answers": [
+            { "text": "Representa a energia elétrica", "correct": false },
+            { "text": "Simboliza a unidade nacional e o espírito internacionalista", "correct": true },
+            { "text": "Indica a riqueza mineral do país", "correct": false },
+            { "text": "Simboliza apenas o governo", "correct": false }
+        ]
+    },
+    {
+        "question": "O que o livro aberto representa no emblema?",
+        "answers": [
+            { "text": "A educação e o conhecimento", "correct": true },
+            { "text": "A história colonial", "correct": false },
+            { "text": "O comércio internacional", "correct": false },
+            { "text": "A agricultura", "correct": false }
+        ]
+    },
+    {
+        "question": "Qual símbolo representa a agricultura no Emblema de Moçambique?",
+        "answers": [
+            { "text": "A foice", "correct": false },
+            { "text": "A enxada", "correct": true },
+            { "text": "A estrela", "correct": false },
+            { "text": "O mar", "correct": false }
+        ]
+    },
+    {
+        "question": "O que simboliza o fuzil AK-47 presente no emblema?",
+        "answers": [
+            { "text": "A dependência militar estrangeira", "correct": false },
+            { "text": "A libertação e a defesa da soberania", "correct": true },
+            { "text": "A caça desportiva", "correct": false },
+            { "text": "A segurança privada", "correct": false }
+        ]
+    },
+    {
+        "question": "Que elemento simboliza a riqueza natural e a agricultura moçambicana?",
+        "answers": [
+            { "text": "O sol nascente", "correct": false },
+            { "text": "A roda dentada", "correct": false },
+            { "text": "A espiga de milho e a planta de cana-de-açúcar", "correct": true },
+            { "text": "A bandeira", "correct": false }
+        ]
+    },
+    {
+        "question": "O que representa o sol nascente no emblema?",
+        "answers": [
+            { "text": "O clima tropical", "correct": false },
+            { "text": "O novo começo e a construção da nação", "correct": true },
+            { "text": "A riqueza petrolífera", "correct": false },
+            { "text": "A localização geográfica do país", "correct": false }
+        ]
+    },
+    {
+        "question": "Que elemento no emblema representa a indústria e o trabalho?",
+        "answers": [
+            { "text": "A roda dentada", "correct": true },
+            { "text": "A enxada", "correct": false },
+            { "text": "O sol", "correct": false },
+            { "text": "O livro", "correct": false }
+        ]
+    },
+    {
+        "question": "O que simboliza o mapa de Moçambique sobreposto ao fundo vermelho?",
+        "answers": [
+            { "text": "A divisão administrativa do país", "correct": false },
+            { "text": "A unidade territorial e a pátria", "correct": true },
+            { "text": "Os limites coloniais históricos", "correct": false },
+            { "text": "O turismo", "correct": false }
+        ]
+    },
+    {
+        "question": "O que representa a fita com o texto 'República de Moçambique' na base do emblema?",
+        "answers": [
+            { "text": "A fundação do país", "correct": false },
+            { "text": "A autonomia dos municípios", "correct": false },
+            { "text": "A identidade e soberania do Estado moçambicano", "correct": true },
+            { "text": "Os poderes legislativos", "correct": false }
+        ]
+    }
+]
